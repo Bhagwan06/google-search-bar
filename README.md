@@ -18,8 +18,7 @@ A simple web application that mimics the Google search interface, featuring a se
 
 - HTML
 - CSS
-- JavaScript 
-
+- 
 ## Installation
 
 1. Clone the repository:
