@@ -84,3 +84,25 @@ background-color: tomato;
 }
 
 
+/* Media Queries for responsiveness */
+@media (max-width: 800px) {
+    .container {
+        width: 90%; /* Make the container take up 90% of the screen width */
+        height: auto; /* Allow height to adjust based on content */
+    }
+    input {
+        max-width: 70%; /* Adjust the max width of the input field */
+    }
+}
+
+@media (max-width: 500px) {
+    .container {
+        padding: 10px; /* Reduce padding for smaller screens */
+    }
+    input {
+        height: 40px; /* Adjust height of the input for smaller screens */
+    }
+    button {
+        height: 40px; /* Adjust height of the button for smaller screens */
+    }
+}
