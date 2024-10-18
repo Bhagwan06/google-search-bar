@@ -15,7 +15,7 @@ body{
 }
 
 .container{
-   color: white;
+    color: white;
     height: 400px;
     width: 800px;
     text-align: center;
@@ -57,9 +57,6 @@ button{
     border-radius: 0 24px 24px 0;
 background-color: tomato;
       color: white;
-
-
-    
 }
 
 .search-container{
